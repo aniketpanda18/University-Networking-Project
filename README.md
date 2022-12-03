@@ -1,4 +1,4 @@
-# University-Networking-Project
+# University-Networking-Project (Mini Project)
 
 Along with the constant development of social economy, computer networks
 have changed people’s lifestyle in many aspects. Local area networks, which are
